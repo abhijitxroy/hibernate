@@ -45,10 +45,14 @@ In your project did you use distributed transaction?
 What is the N+1 SELECT problem in Hibernate? 
 
 What are some strategies to solve the N+1 SELECT problem in Hibernate?   
+
     1. join + fetch 
     2. EntityGraph using attributePaths 
     3. HQL 
     4. Criteria
+    <img width="1352" alt="image" src="https://github.com/abhijitxroy/hibernate/assets/161963891/adf7e622-727d-4506-b78e-8d981ddd7aa5">
+    <img width="1107" alt="image" src="https://github.com/abhijitxroy/hibernate/assets/161963891/29971252-ff2d-4964-88a2-1d555b128df9">
+    <img width="1377" alt="image" src="https://github.com/abhijitxroy/hibernate/assets/161963891/16f600d3-9a8a-42eb-bb69-76e2243102af">
 
 
 What is the difference between the save() and persist() method in Hibernate?
