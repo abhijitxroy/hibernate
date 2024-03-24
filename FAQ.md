@@ -52,6 +52,7 @@ What are some strategies to solve the N+1 SELECT problem in Hibernate?
     2. EntityGraph using attributePaths 
     3. HQL 
     4. Criteria
+<img width="1452" alt="image" src="https://github.com/abhijitxroy/hibernate/assets/161963891/20fd37ef-c758-4ae1-8ffb-c4f056f8d8e4">
 
 <img width="1352" alt="image" src="https://github.com/abhijitxroy/hibernate/assets/161963891/adf7e622-727d-4506-b78e-8d981ddd7aa5">
 <img width="1107" alt="image" src="https://github.com/abhijitxroy/hibernate/assets/161963891/29971252-ff2d-4964-88a2-1d555b128df9">
